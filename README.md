@@ -1,1 +1,1 @@
-# e-comerce_store
+# python_projects
